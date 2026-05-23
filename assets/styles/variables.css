@@ -1,0 +1,11 @@
+:root {
+  /*=== Colors === */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-purple-950: #301534;
+  --color-purple-600: #8b6990;
+  --color-purple-100: #f8eeff;
+  --color-violet-600: #ad28eb;
+  /* === Typography === */
+  --font-main: "Work Sans", sans-serif;
+}
