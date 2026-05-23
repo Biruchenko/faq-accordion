@@ -17,6 +17,8 @@ A responsive FAQ accordion, where users can:
 
 ### Links
 
+- https://biruchenko.github.io/faq-accordion/
+
 ### Built with
 
 - Semantic HTML5
